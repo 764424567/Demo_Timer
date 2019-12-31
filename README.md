@@ -7,9 +7,8 @@
 ## 二、效果图
 计时器效果
 ![image](https://img-blog.csdnimg.cn/20191231161127483.gif)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191231161127483.gif)
 倒计时效果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191231161150169.gif)
+![image](https://img-blog.csdnimg.cn/20191231161150169.gif)
 ## 三、本文链接
 本文链接：https://blog.csdn.net/q764424567/article/details/103784853
 GitHub项目源码下载：https://github.com/764424567/Demo_Timer
