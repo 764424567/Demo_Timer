@@ -6,6 +6,7 @@
 
 ## 二、效果图
 计时器效果
+![image](https://img-blog.csdnimg.cn/20191231161127483.gif)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191231161127483.gif)
 倒计时效果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191231161150169.gif)
